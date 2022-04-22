@@ -4,6 +4,7 @@
     background-color: #1F2937;
     font-size: 18px;
     color: #E5E7EB;
+    font-family: "Roboto"; 
 }
 
 .left, .right {
@@ -11,6 +12,25 @@
     gap: 16px;
 }
 
+.header-body {
+padding-top: 90px;
+font-family: "Roboto"; 
+color: #E5E7EB;
+background-color: #1F2937;
+}
+
+.h-left {
+display: flex;
+}
+
+button {
+color: white;
+background-color: #3882F6;
+}
+
+.h-right {
+background-color: gray;
+}
 
 
 ul {
